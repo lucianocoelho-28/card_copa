@@ -1,6 +1,7 @@
-<h4 align="center">
-  🚀 Card NLW Copa
-</h4>
+<h1 align="center">
+    <img alt="Card NLW Copa" title="#NLW Copa" src="./assets/logo.svg" width="250px" />
+</h1>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianocoelho-28/card_copa">
 
