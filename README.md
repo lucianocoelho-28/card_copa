@@ -1,5 +1,5 @@
 <h4 align="center">
-  🚀 Semana NLW - Copa
+  🚀 NLW - Copa Card
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianocoelho-28/card_copa">
@@ -26,7 +26,8 @@
 
 <br>
 
-<p>Pode acessar a pagina por <a href='https://lucianocoelho-28.github.io/card_copa/'> Aqui</a></p>
+<!-- <p>Pode acessar a pagina por <a href='https://lucianocoelho-28.github.io/card_copa/'> Aqui</a></p> -->
+
 
 <p align="center">
   <img alt="Frontend" src="./assets/nlw-copa.png" width="100%">
