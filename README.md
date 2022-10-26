@@ -1,5 +1,5 @@
 <h4 align="center">
-  🚀 NLW - Copa Card
+  🚀 Card NLW Copa
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianocoelho-28/card_copa">
@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <img alt="Frontend" src="./assets/nlw-copa.png" width="100%">
+  <img alt="Card NLW Copa" src="./assets/nlw-copa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
