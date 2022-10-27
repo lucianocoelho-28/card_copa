@@ -27,7 +27,7 @@
 
 <br>
 
-<p>Pode acessar a pagina por <a href='https://lucianocoelho-28.github.io/card_copa/'> Aqui</a></p>
+<p>Pode acessar a figurinha da Copa pela página <a href='https://lucianocoelho-28.github.io/card_copa/'> Aqui</a></p>
 
 
 <p align="center">
