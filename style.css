@@ -5,5 +5,50 @@
 }
 
 body * {
-    font-family: 'Roboto';
+    font-family: "Roboto";
+}
+
+body {
+    background: linear-gradient(151.79deg, #0F2B05, #000000);
+    height: 100vh;
+
+    text-align: center;
+}
+
+header {
+    padding: 75px 0;
+}
+
+.card {
+    display: inline-block;
+    width: 354px;
+    height: 508px;
+
+    background-image: url(./assets/bg-explorer.svg);
+}
+
+.card > img {
+    width: 150px;
+    height: 150px;
+    object-fict: cover;
+    border-radius: 50%;
+    border: 4px solid #F7DD43;
+    margin-top: 115px;
+}
+
+.info {
+    margin-top: 98px;
+    color: white;
+    margin-left: 70px;
+    text-align: left;
+}
+
+.info h1 {
+    font-size: 18px;
+    line-height: 140%;
+}
+
+.info p {
+    font-size: 14px;
+    line-height: 160%;
 }
