@@ -25,6 +25,8 @@ header {
     height: 508px;
 
     background-image: url(./assets/bg-explorer.svg);
+
+    cursor: pointer;
 }
 
 .card > img {
